@@ -1,5 +1,5 @@
 const assert = require('assert');
-const { Builder, Browser, By, Key, until, pause } = require('selenium-webdriver');
+const { Builder, Browser, By, Key } = require('selenium-webdriver');
 
 (async function example() {
     let driver = await new Builder().forBrowser(Browser.CHROME).build();
