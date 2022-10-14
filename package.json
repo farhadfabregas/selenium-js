@@ -1,0 +1,24 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhadfabregas/selenium-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhadfabregas/selenium-js/issues"
+  },
+  "homepage": "https://github.com/farhadfabregas/selenium-js#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "selenium-webdriver": "^4.5.0"
+  }
+}
